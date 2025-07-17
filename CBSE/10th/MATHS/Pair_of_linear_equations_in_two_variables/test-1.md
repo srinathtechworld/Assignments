@@ -8,6 +8,19 @@
 
 **Difficulty Level: Easy**
 
+---
+
+## ✅ General Instructions:
+
+* All questions are **compulsory**.
+* Use step-by-step solving; marks will be awarded accordingly.
+* Use of a calculator is **not permitted**.
+* Answer each question on a fresh page.
+* Graph to be drawn on proper scale if required.
+
+---
+
+
 ## 🧮 **SECTION A – Very Short Answer (1 × 4 = 4 marks)**
 
 Attempt all questions.
