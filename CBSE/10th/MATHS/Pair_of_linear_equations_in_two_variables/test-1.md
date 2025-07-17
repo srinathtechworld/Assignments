@@ -1,76 +1,73 @@
 # Raksh's assignment - I
 
-## 📝 CBSE Class 10 Maths – Chapter 3: Pair of Linear Equations in Two Variables
+### **Chapter 3: Pair of Linear Equations in Two Variables**
 
-### **Total Marks: 40 | Time: 1 Hour 30 Minutes**
+**Maximum Marks: 40**
+**Time: 90 Minutes**
+**Difficulty Level: Easy**
 
-### **Section A – Very Short Answer (1 mark each)**
+## 🧮 **SECTION A – Very Short Answer (1 × 4 = 4 marks)**
 
-**\[1 × 4 = 4 marks]**
+Attempt all questions.
 
-1. Write the condition for a pair of linear equations to have no solution.
-2. Find the value of $k$ if the equations $3x + ky = 9$ and $6x + 12y = 18$ represent a pair of dependent equations.
-3. Solve: $2x + 3y = 12$, $4x + 6y = 24$. How many solutions are there?
-4. If one equation is $2x + y = 10$, write another equation that forms a consistent pair with it.
+1. Write the condition for a system of linear equations to have **infinitely many solutions**.
 
-### **Section B – Short Answer Type I (2 marks each)**
+2. Solve:
+   $x + y = 6$,
+   $x - y = 2$
 
-**\[2 × 3 = 6 marks]**
+3. If two lines are **parallel**, what can you say about the number of solutions of their equations?
 
-5. Solve the pair of equations using substitution method:
+4. Find the value of $k$ for which the equations
+   $kx + 2y = 3$ and $3x + ky = 5$
+   have **no solution**.
 
-$$
-x + y = 7,\quad x - y = 1
-$$
+## ✍️ **SECTION B – Short Answer Type I (2 × 4 = 8 marks)**
 
-6. Solve the pair:
+Attempt all questions.
 
-$$
-3x - 2y = 12,\quad 2x + y = 5
-$$
+5. Draw the graph of the pair of equations:
+   $x + y = 4$ and $x - y = 2$
+   Find the point of intersection.
+   *(Use rough sketch if graph paper not available)*
 
-7. Two numbers have a sum of 25. If twice one number is equal to three times the other, find the numbers using linear equations.
+6. A number consists of two digits. The digit in the tens place is twice the digit in the units place. If 27 is added to the number, the digits interchange their places. Find the number.
 
-### **Section C – Short Answer Type II (3 marks each)**
+7. Solve by elimination:
+   $2x + 3y = 12$,
+   $3x + 2y = 12$
 
-**\[3 × 3 = 9 marks]**
+8. The sum of the numerator and denominator of a fraction is 5 more than twice the numerator. If the numerator and denominator are increased by 1, the fraction becomes $\dfrac{1}{2}$. Find the fraction.
 
-8. Solve the following pair of linear equations using cross-multiplication method:
+## 🧠 **SECTION C – Short Answer Type II (3 × 4 = 12 marks)**
 
-$$
-5x - 4y = 11,\quad -10x + 8y = -22
-$$
+Attempt all questions.
 
-9. Find the value of $a$ such that the pair of equations
+9. The coach of a cricket team buys **3 bats and 6 balls** for ₹3900. Later, she buys **1 bat and 3 balls** for ₹1300. Represent this situation as a pair of linear equations. Solve using **substitution method**.
 
-$$
-ax + y = 3,\quad 4x + ay = 4
-$$
+10. A train travels 360 km at a uniform speed. If the speed had been 5 km/h more, it would have taken 48 minutes less for the journey. Find the speed of the train.
 
-has **infinitely many solutions**.
+11. Solve graphically:
+    $x + 2y = 6$ and $2x - y = 4$
+    Also write the coordinates of the point where the lines intersect.
 
-10. The sum of the digits of a two-digit number is 9. If the digits are reversed, the number increases by 27. Find the number.
+12. Two numbers are such that the sum of twice the first and thrice the second is 36, and the sum of thrice the first and twice the second is 39. Find the numbers using elimination method.
 
+## 📐 **SECTION D – Long Answer Type (4 × 4 = 16 marks)**
 
-### **Section D – Long Answer Type (4 marks each)**
+Attempt all questions.
 
-**\[4 × 3 = 12 marks]**
+13. A boat takes 6 hours to travel 30 km downstream and 18 km upstream. It would take 9 hours to travel 36 km downstream and 24 km upstream. Find the speed of the boat in still water and the speed of the stream.
 
-11. The father’s age is three times the sum of the ages of his two children. After 5 years, his age will be double the sum of their ages at that time. Find the present ages of the children.
+14. Solve the following word problem:
 
-12. Solve the following pair of equations graphically:
+> A school collected ₹1050 in total from students of class 10. Each boy paid ₹20 and each girl paid ₹15. If the number of boys is 10 more than the number of girls, find the number of boys and girls.
 
-$$
-x + 2y = 6,\quad 2x - y = 2
-$$
+15. A person invested ₹12,000 in two schemes A and B at 10% and 12% per annum respectively. At the end of one year, the total interest received was ₹1280. How much money was invested in each scheme?
 
-Plot the graph and write the solution as coordinates. Also state the nature of the pair.
+16. Solve using cross-multiplication:
 
-13. A boat can travel 30 km downstream in 2 hours and the same distance upstream in 3 hours. Find the speed of the boat in still water and the speed of the stream using the method of elimination.
+    $$
+    3x - 4y = 10,\quad 2x + y = 3
+    $$
 
-### **Section E – Application-Based Question (5 marks)**
-
-**\[5 × 1 = 5 marks]**
-
-14. A shopkeeper sells pens and pencils. He sold 20 items in a day, consisting of pens and pencils, and collected ₹280. If a pen costs ₹20 and a pencil costs ₹10, find how many pens and how many pencils he sold.
-    Also, if he wants to earn ₹350 the next day by selling 25 items with the same rates, how many pens and pencils should he sell?
