@@ -3,7 +3,9 @@
 ### **Chapter 3: Pair of Linear Equations in Two Variables**
 
 **Maximum Marks: 40**
+
 **Time: 90 Minutes**
+
 **Difficulty Level: Easy**
 
 ## 🧮 **SECTION A – Very Short Answer (1 × 4 = 4 marks)**
