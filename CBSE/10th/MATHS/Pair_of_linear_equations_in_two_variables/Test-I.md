@@ -62,9 +62,9 @@
 
 9. Solve for $x$ and $y$:
 
-   $$
-   \frac{1}{x} + \frac{1}{y} = \frac{5}{6},\quad \frac{1}{x} - \frac{1}{y} = \frac{1}{6}
-   $$
+$$
+\frac{1}{x} + \frac{1}{y} = \frac{5}{6},\quad \frac{1}{x} - \frac{1}{y} = \frac{1}{6}
+$$
 
    *(Hint: Use substitution after setting new variables.)*
 
