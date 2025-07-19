@@ -19,15 +19,15 @@
 
 1. Without solving, determine the nature of solutions of the system:
 
-   $$
-   2x - 3y = 7,\quad 4x - 6y = 10
-   $$
+$$
+2x - 3y = 7,\quad 4x - 6y = 10
+$$
 
 2. For what value(s) of $k$ do the equations
 
-   $$
-   kx + y = 3,\quad 2x + ky = 4
-   $$
+$$
+kx + y = 3,\quad 2x + ky = 4
+$$
 
    represent a pair of **coincident lines**?
 
@@ -47,9 +47,9 @@
 
 7. A pair of linear equations is given by:
 
-   $$
-   a_1x + b_1y = c_1,\quad a_2x + b_2y = c_2
-   $$
+$$
+a_1x + b_1y = c_1,\quad a_2x + b_2y = c_2
+$$
 
    Derive the condition for **unique solution** in terms of the coefficients.
 
